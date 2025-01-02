@@ -1,6 +1,6 @@
-![Header](https://user-images.githubusercontent.com/your-header-image.png)
+![Header](https://user-images.githubusercontent.com/tu-imagen-header.png)
 
-# 🌱 Bienvenida a mi GitHub 🌿
+# 🌱 Hola soy Carolina Lievanos 🌿
 
 Hola, soy **Carolina Lievanos**, ingeniera química con una maestría en ciencias, especializada en ciencia de datos y consultoría en análisis. Me apasiona la sostenibilidad, la innovación y la optimización de procesos energéticos. Mi objetivo es diseñar soluciones que combinen creatividad, análisis de datos y tecnología para generar un impacto positivo en el cambio climático global. 🌟
 
