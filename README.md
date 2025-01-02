@@ -1,7 +1,6 @@
 # Hola 👋, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-![BannerGit](![image](https://github.com/user-attachments/assets/4a0fe0f1-ed4c-4c3f-9779-8b1e3825dc39)
-)
+![BannerGit](https://user-images.githubusercontent.com/87400845/162263134-993f9057-8441-440b-89a7-d6a0458246aa.png)
 
 
 <h2>👩🏻‍💻 Sobre mí:</h2>
