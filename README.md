@@ -1,11 +1,8 @@
 # Hola 👋, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-![BannerGit](https://user-images.githubusercontent.com/87400845/162263134-993f9057-8441-440b-89a7-d6a0458246aa.png)
+![image](https://github.com/user-attachments/assets/d9111d76-e60c-4189-95a9-3851c1a8046a)
 ![image](https://github.com/user-attachments/assets/d2de25d7-c2c7-4100-aae6-b8bb799f017e)
 
-
-
-<h2>👩🏻‍💻 Sobre mí:</h2>
+![image](https://github.com/user-attachments/assets/ab656bb8-3d70-4ef5-9873-338977fbd342) <h2>👩🏻‍💻 Sobre mí:</h2>
 
 Soy Carolina Lievanos, entusiasta de la tecnología, la ciencia de datos, y apasionada por la sostenibilidad y la innovación. Poseo una Ingeniería en Química con especialización en Gestión de proyectos, bases de datos y soporte TI. Actualmente, estoy profundizando mis conocimientos en Ciencia de Datos, Machine Learning e Inteligencia Artificial, con intereses enfocados en data science y sustentabilidad.
 
