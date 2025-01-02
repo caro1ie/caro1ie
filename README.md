@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/your-header-image.png)
+![Header](https://raw.githubusercontent.com/lievanosiq/REPO-NAME/main/header.png)
 
 # 🌱 Bienvenido a mi GitHub 🌿
 
@@ -9,15 +9,26 @@ Hola, soy **Carolina Lievanos**, entusiasta de la tecnología, la ciencia de dat
 ## 🛠 Habilidades
 
 ### Lenguajes de Programación
-[![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-100%25-276DC3?style=flat-square&logo=r&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-85%25-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
+| Lenguaje      | Dominio       |
+|---------------|---------------|
+| **Python**    | 100%          |
+| **R**         | 100%          |
+| **SQL**       | 85%           |
+| **JavaScript**| 75%           |
 
 ### Visualización y Análisis
-- 🖥 **Herramientas**: Power BI, Tableau, Pandas, NumPy  
-- 📈 **Bases de Datos**: MySQL, PostgreSQL, SQLite, MongoDB  
-- 🌐 **Tecnologías Web**: Flask, HTML5, CSS3  
+
+- **Herramientas**: Power BI, Tableau, Pandas, NumPy  
+- **Bases de Datos**: MySQL, PostgreSQL, SQLite, MongoDB  
+- **Tecnologías Web**: Flask, HTML5, CSS3  
 
 ---
 
@@ -39,13 +50,9 @@ Hola, soy **Carolina Lievanos**, entusiasta de la tecnología, la ciencia de dat
 
 ## 🌐 Encuéntrame en
 
-🌿 [**LinkedIn**](https://www.linkedin.com/in/lievanosiq/)  
-🌸 **Email**: lievanos.iq@gmail.com  
+- 🌿 [**LinkedIn**](https://www.linkedin.com/in/lievanosiq/)  
+- 🌸 **Email**: lievanos.iq@gmail.com  
 
 ---
 
 ![Footer](https://user-images.githubusercontent.com/your-footer-image.png)
-
-
-
-
