@@ -4,23 +4,19 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<p align="center">
-  <h1 align="center">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-    <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  </h1>
-</p>
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <h2>👩🏻‍💻  Sobre mí:</h2>
 
-Hola, soy **Carolina Lievanos**, entusiasta de la tecnología, la ciencia de datos, y apasionada por la sostenibilidad y la innovación. Mi misión es diseñar soluciones que combinen creatividad, análisis de datos y tecnología para generar un impacto positivo. 🌟
+Soy Carolina Lievanos, entusiasta de la tecnología, la ciencia de datos, y apasionada por la sostenibilidad y la innovación. Poseo una Ingeniería en Química con especialización en Gestión de proyectos, bases de datos y soporte TI. Actualmente, estoy profundizando mis conocimientos en Ciencia de Datos, Machine Learning e Inteligencia Artificial, con intereses enfocados en data science y sustentabilidad.
 
-- Estudié la Ingeniería quimica
-- Conocimientos en Gestión de proyectos, Bases de datos, Soporte TI.
-- Actualmente estoy aprendiendo mas en Ciencia de Datos , ML e IA
+He obtenido una Maestría en Ciencias en Ingeniería Química con especialización en Catálisis Ambiental y Materiales Avanzados por la Universidad Autónoma Metropolitana. Mi carrera ha estado dedicada a la investigación y desarrollo en química industrial y la transición energética, enfocándome en las propiedades de materiales catalíticos y nuevos materiales. Actualmente, trabajo como Consultora Certificada de LIMS en LabWare, donde aplico mi experiencia en automatización de procesos y gestión de datos para optimizar operaciones de laboratorio. En mi papel, implemento soluciones LIMS/ELN, brindo soporte técnico especializado y aseguro la eficiencia del sistema para clientes en toda América Latina.
+
+Tengo experiencia en análisis de datos utilizando Python, R, SQL, y herramientas como Power BI y Mathematica, así como generación avanzada de reportes en Excel. Además, soy competente en JavaScript, Knime y otras plataformas para análisis y automatización. Mis habilidades técnicas están respaldadas por certificaciones en programación, análisis de datos, gestión de proyectos e internacionales en gestión ambiental y de calidad, junto con experiencia práctica en técnicas de caracterización experimental.
+
+Mi pasión por las nuevas tecnologías y el aprendizaje continuo me impulsa a integrarme en campos como inteligencia artificial, ciencia de datos y análisis avanzado para contribuir activamente en la transición energética, trabajando en un equipo innovador que valora la retroalimentación y la mejora continua. 🌟
+
+Mi objetivo es diseñar soluciones innovadoras que integren creatividad, análisis de datos y tecnología para generar un impacto positivo en el mundo. Con certificaciones en gestión de proyectos, bases de datos, y soporte técnico, además de experiencia en ciencia de datos y automatización, busco contribuir al desarrollo de soluciones tecnológicas sostenibles y eficientes.
 
 ## 🛠️ Habilidades
 
