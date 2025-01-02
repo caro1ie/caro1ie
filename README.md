@@ -1,37 +1,50 @@
-# 💡 Bienvenido a mi GitHub
+![Header](https://user-images.githubusercontent.com/your-header-image.png)
 
-Hola, soy **Carolina Lievanos**, apasionada por la tecnología, la ciencia de datos, la transición energética y la innovación. Mi misión es crear soluciones basadas en datos que impulsen un impacto positivo en el entorno social, económico y ambiental.
+# 🌱 Bienvenido a mi GitHub 🌿
 
----
-
-### 🛠 Habilidades
-- **Lenguajes de Programación**: Python, R, SQL, JavaScript  
-- **Análisis de Datos**: Pandas, NumPy, Power BI, Tableau, Jupyter Notebook  
-- **Ciencia de Datos**: Scikit-learn, KNIME, Estadística Avanzada, Machine Learning  
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB, SQLite  
-- **Gestión de Proyectos**: Excel Avanzado, Google Workspace, LIMS, ELN  
-- **Tecnologías Web**: Flask, HTML/CSS  
-- **Certificaciones**:  
-  - Inteligencia Empresarial (Google)  
-  - Análisis de Datos (Google)  
-  - Gestión Ambiental y de Calidad  
+Hola, soy **Adan Maez**, entusiasta de la tecnología, la ciencia de datos, y apasionada por la sostenibilidad y la innovación. Mi misión es diseñar soluciones que combinen creatividad, análisis de datos y tecnología para generar un impacto positivo. 🌟
 
 ---
 
-### 🌟 Últimos Proyectos
-- 📊 [Monitoreo y Predicción de Calidad del Aire en México](#): Desarrollé un modelo de predicción en tiempo real usando aprendizaje automático.  
-- 📂 [Análisis de Nacimientos en CDMX](#): Predicción de tipo de parto utilizando técnicas de ciencia de datos con KNIME.  
-- 🛠 [Optimización de Bases de Datos](#): Implementé esquemas avanzados para bases de datos SQL.  
+## 🛠 Habilidades
+
+### Lenguajes de Programación
+[![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-15%25-276DC3?style=flat-square&logo=r&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-5%25-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+
+### Visualización y Análisis
+- 🖥 **Herramientas**: Power BI, Tableau, Pandas, NumPy  
+- 📈 **Bases de Datos**: MySQL, PostgreSQL, SQLite, MongoDB  
+- 🌐 **Tecnologías Web**: Flask, HTML5, CSS3  
 
 ---
 
-### 🌐 Encuéntrame en
-- 💼 [LinkedIn](https://www.linkedin.com/in/lievanosiq/)  
-- 📫 **Email**: lievanos.iq@gmail.com
+## 🌟 Proyectos Recientes
+
+| 🌿 Proyecto                                   | 🛠 Tecnologías Utilizadas         | 🌍 Impacto                                |
+|---------------------------------------------|----------------------------------|------------------------------------------|
+| **Monitoreo de Calidad del Aire**           | Python, Scikit-learn, Power BI  | Predicción de contingencias ambientales |
+| **Predicción de Nacimientos en CDMX**       | KNIME, R, PostgreSQL            | Optimización de recursos en hospitales  |
+| **Optimización de Bases de Datos**          | SQL, Python, MongoDB            | Mejora en la gestión de datos           |
 
 ---
 
-Siempre buscando aprender, colaborar y compartir conocimientos. ¡Gracias por visitar mi perfil! 🚀
+## 📊 Estadísticas Interactivas
+
+![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=lievanosiq&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌐 Encuéntrame en
+
+🌿 [**LinkedIn**](https://www.linkedin.com/in/lievanosiq/)  
+🌸 **Email**: adan.maez@example.com  
+
+---
+
+![Footer](https://user-images.githubusercontent.com/your-footer-image.png)
 
 
 
