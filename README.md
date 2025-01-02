@@ -1,23 +1,7 @@
 # Hola 👋, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p align="center">
-  <a href="https://github.com/fairyland0926">
-    <img src="![image](https://github.com/user-attachments/assets/394fd574-3fa6-4675-bb65-94612d4aa384)"/>
-  </a>
-</p>
-
-<p align="center">
-  <h1 align="center">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-    <a href="/">
-      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
-    </a>
-    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  </h1>
-</p>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" /> de Ingeniera quimica y de sofware y Data Science & analytics
-
+![BannerGit](![image](https://github.com/user-attachments/assets/4a0fe0f1-ed4c-4c3f-9779-8b1e3825dc39)
+)
 
 
 <h2>👩🏻‍💻 Sobre mí:</h2>
