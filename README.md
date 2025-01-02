@@ -99,9 +99,7 @@ Mi objetivo es diseñar soluciones innovadoras que integren creatividad, anális
 
 <h2>🌐 Mis redes:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/lievanosiq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixshel-quetzalli-c-344398b7" height="30" width="40" /></a>
-<a href="https://fb.com/ichel.crown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ichel.crown" height="30" width="40" /></a>
-<a href="https://instagram.com/ixicrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andcarolie" height="30" width="40" /></a>
-<a href="https://twitter.com/ixicrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixicrown" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/lievanosiq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrea-Lievanos-344398b7" height="30" width="40" /></a>
+
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ixshelc.id&left_color=green&right_color=red) -->
