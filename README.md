@@ -1,5 +1,6 @@
 # Hola 👋, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-![image](https://www.freepik.es/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_65309450.htm#fromView=keyword&page=1&position=5&uuid=98a0a823-472b-402f-8155-44a0f94bbafe&query=Mujer+Programacion)
+![image](![cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat-b (1)](https://github.com/user-attachments/assets/5c91a96e-1bb6-4c68-a35f-afa1c95e50fd)
+)
 
 
 <h2>👩🏻‍💻 Sobre mí:</h2>
