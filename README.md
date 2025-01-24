@@ -1,6 +1,4 @@
-# Hola, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-<div style="text-align: center;">
+# Hola, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/da178620-483e-4b0e-8b61-a76b4ace135c" alt="Imagen" width="500">
 </div>
 
