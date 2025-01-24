@@ -1,5 +1,6 @@
 # Hola 👋, soy Carolina Lievanos🌿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-![cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat-b (1)](https://github.com/user-attachments/assets/000db957-d3d7-42c5-9c11-96f10cbf0632)
+![freepik__the-style-is-candid-image-photography-with-natural__81147](https://github.com/user-attachments/assets/7facad9a-1af8-4617-bde6-70a62a89178c)
+
 
 <h2>👩🏻‍💻 Sobre mí:</h2>
 
